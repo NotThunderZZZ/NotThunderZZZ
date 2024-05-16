@@ -10,6 +10,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i hate badminton
 
+<video src="https://github.com/NotThunderZZZ/NotThunderZZZ/assets/169876550/b2c8dbee-eaa3-410a-afe7-cb2eb66e8e4a"></video>
+
 <!---
 NotThunderZZZ/NotThunderZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
