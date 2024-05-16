@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on this platform
 - 📫 How to reach me:
-   + Step 1: install (meteor)[https://meteorclient.com/]
+   + Step 1: install [meteor](https://meteorclient.com/)
    + Step 2: get ur minecraft
    + Step 3: turn on reach
    + Step 4: reach me irl 😜
