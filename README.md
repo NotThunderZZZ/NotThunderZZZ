@@ -13,7 +13,7 @@
 - ⚡ Fun fact:
    + I hate badminton 🤷‍♂️
    + Terrible fear of crowds 💂‍♂️
-   + Really cute boy irl ♥
+   + Really cute boy irl ❤
    + A nice student! 👨‍🎓
 
 <video src="https://github.com/NotThunderZZZ/NotThunderZZZ/assets/169876550/b2c8dbee-eaa3-410a-afe7-cb2eb66e8e4a"></video>
