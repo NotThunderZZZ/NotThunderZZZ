@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on this platform
 - ✋ How to reach me:
    + Step 1: install [meteor](https://meteorclient.com/)
-   + Step 2: get ur minecraft
+   + Step 2: get ur [minecraft](https://minecraft.net)
    + Step 3: turn on reach
    + Step 4: reach me irl 😜
 - 📫 Just kidding... How to reach me: \*method not provided\*
