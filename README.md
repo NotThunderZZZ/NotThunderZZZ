@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @NotThunderZZZ
 - 👀 I’m interested in something
 - 🌱 I’m currently learning nothing
@@ -9,7 +10,11 @@
    + Step 4: reach me irl 😜
 - 📫 Just kidding... How to reach me: \*method not provided\*
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i hate badminton
+- ⚡ Fun fact:
+   + I hate badminton 🤷‍♂️
+   + Terrible fear of crowds 💂‍♂️
+   + Really cute boy irl ♥
+   + A nice student! 👨‍🎓
 
 <video src="https://github.com/NotThunderZZZ/NotThunderZZZ/assets/169876550/b2c8dbee-eaa3-410a-afe7-cb2eb66e8e4a"></video>
 
