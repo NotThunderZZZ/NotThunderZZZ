@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m @NotThunderZZZ
 - 👀 I’m interested in something
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning in grade 7
 - 💞️ I’m looking to collaborate on this platform
 - ✋ How to reach me:
    + Step 1: install [meteor](https://meteorclient.com/)
